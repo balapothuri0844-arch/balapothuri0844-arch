@@ -51,51 +51,35 @@ My focus areas include:
 ---
 
 # 📂 Featured Projects
+# 📂 Featured Projects
 
 ## 🧠 Blood Cell Cancer Detection
 Deep learning project for classifying cancerous blood cells using CNN and medical image datasets.
 
-Technologies  
-Python • TensorFlow • CNN • Computer Vision
-
-Repository  
-https://github.com/balapothuri0844-arch/blood-cell-cancer-detection
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=balapothuri0844-arch&repo=blood-cell-cancer-detection&theme=tokyonight)
 
 ---
 
 ## 🛫 Airport Security VR Simulation
-A multiplayer VR airport security training system built using Unreal Engine with AI passenger simulations and interactive security workflows.
+Multiplayer VR airport security training simulation built using Unreal Engine with AI passenger simulations.
 
-Technologies  
-Unreal Engine • VR • AI Simulation
-
-Repository  
-https://github.com/balapothuri0844-arch/airport-security-VR-simulation
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=balapothuri0844-arch&repo=airport-security-VR-simulation&theme=tokyonight)
 
 ---
 
 ## 🏢 SmallBiz Navigator
-A relational database system designed to manage employees, payroll, attendance, and assets for small businesses.
+Relational database system for managing employees, payroll, attendance, and assets for small businesses.
 
-Technologies  
-MySQL • SQL • ER Modeling
-
-Repository  
-https://github.com/balapothuri0844-arch/Smallbiz-navigator
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=balapothuri0844-arch&repo=Smallbiz-navigator&theme=tokyonight)
 
 ---
 
 ## 📊 Tobacco Health Risk Analysis
-Big data analytics project analyzing tobacco usage trends using BRFSS healthcare datasets.
+Big Data analytics project analyzing tobacco usage trends using BRFSS healthcare datasets.
 
-Technologies  
-Hadoop • Apache Spark • Google Cloud • BigQuery
-
-Repository  
-https://github.com/balapothuri0844-arch/tobacco-health-risk-analysis
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=balapothuri0844-arch&repo=tobacco-health-risk-analysis&theme=tokyonight)
 
 ---
-
 # 📊 GitHub Stats
 
 ![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=balapothuri0844-arch&show_icons=true&theme=tokyonight)
