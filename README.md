@@ -1,16 +1,118 @@
-## Hi there 👋
+# 👋 Hi, I'm Bala Phaneendra Pothuri
 
-<!--
-**balapothuri0844-arch/balapothuri0844-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Information Engineering & Management  
+🤖 AI/ML Engineer | Data Scientist | Big Data Engineer  
+📍 United States  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 About Me
+
+I am an AI/ML Engineer passionate about building scalable machine learning systems, big data pipelines, and predictive analytics solutions across healthcare, finance, and retail domains.
+
+My focus areas include:
+
+• Machine Learning & Deep Learning  
+• Big Data Analytics using Spark & Hadoop  
+• Cloud-based ML systems on Azure, AWS, and GCP  
+• Data Engineering pipelines for large-scale datasets  
+• Predictive analytics and intelligent automation  
+
+---
+
+# 🛠️ Tech Stack
+
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Machine Learning
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Big Data
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### Data Tools
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+### Dev Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+---
+
+# 📂 Featured Projects
+
+## 🧠 Blood Cell Cancer Detection
+Deep learning project for classifying cancerous blood cells using CNN and medical image datasets.
+
+Technologies  
+Python • TensorFlow • CNN • Computer Vision
+
+Repository  
+https://github.com/balapothuri0844-arch/blood-cell-cancer-detection
+
+---
+
+## 🛫 Airport Security VR Simulation
+A multiplayer VR airport security training system built using Unreal Engine with AI passenger simulations and interactive security workflows.
+
+Technologies  
+Unreal Engine • VR • AI Simulation
+
+Repository  
+https://github.com/balapothuri0844-arch/airport-security-VR-simulation
+
+---
+
+## 🏢 SmallBiz Navigator
+A relational database system designed to manage employees, payroll, attendance, and assets for small businesses.
+
+Technologies  
+MySQL • SQL • ER Modeling
+
+Repository  
+https://github.com/balapothuri0844-arch/Smallbiz-navigator
+
+---
+
+## 📊 Tobacco Health Risk Analysis
+Big data analytics project analyzing tobacco usage trends using BRFSS healthcare datasets.
+
+Technologies  
+Hadoop • Apache Spark • Google Cloud • BigQuery
+
+Repository  
+https://github.com/balapothuri0844-arch/tobacco-health-risk-analysis
+
+---
+
+# 📊 GitHub Stats
+
+![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=balapothuri0844-arch&show_icons=true&theme=tokyonight)
+
+---
+
+# 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balapothuri0844-arch&layout=compact&theme=tokyonight)
+
+---
+
+# 📫 Contact
+
+📧 bppothuri11@gmail.com  
+📍 United States  
+
+---
+
+⭐ If you find my projects useful, feel free to star them!
