@@ -80,11 +80,6 @@ Big Data analytics project analyzing tobacco usage trends using BRFSS healthcare
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=balapothuri0844-arch&repo=tobacco-health-risk-analysis&theme=tokyonight)
 
 ---
-# 📊 GitHub Stats
-
-![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=balapothuri0844-arch&show_icons=true&theme=tokyonight)
-
----
 
 # 📈 Most Used Languages
 
